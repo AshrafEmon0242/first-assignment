@@ -1,0 +1,148 @@
+body{
+    margin: 0%;
+    font-family: 'Finlandica', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Kantumruy Pro', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+    font-size: 2em;
+}
+h2{
+    font-size: 1.5em;
+}
+p{
+    font-size: 1.5em;
+}
+
+#sec1{
+    text-align: center;
+    color: white;
+    background-image: url(donate-today/images/donation9.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px 20px 200px 20px;  
+}
+#sec1 h1{
+    font-size: 4em;
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 15px 40px;
+    border-radius: 5px;
+}
+
+#sec2{
+    text-align: center;
+    margin: 5% 20% 0% 20%;
+}
+
+#sec3{
+    display: flex;
+    margin: 5% 15% 2% 20%;
+}
+
+#sec3 h2{
+    width: 8%;
+    margin: 1%;
+    padding: 4%;
+    border-radius: 2px;
+    text-align: center;
+}
+
+#h2-spc{
+    background-color: rgb(247, 212, 205);
+    border: 2px solid tomato;
+    border-radius: 5px;
+}
+
+#sec4{
+    text-align: center;
+}
+#sec4 input{
+    padding: 5px 10%;
+    background-color: antiquewhite;
+    border-radius: 5px;
+}
+
+#sec5{
+    display: flex;
+    margin: 10%;
+    margin-top: 0%;
+}
+
+.sub-sec{
+    width: 21%;
+    margin: 3%;
+    padding: 3%;
+    border-radius: 5px;
+}
+
+#sub1{
+    background-color: lightcyan;
+}
+#sub2{
+    background-color: rgb(227, 177, 169);
+}
+#sub3{
+    background-color: bisque;
+}
+
+#sec6{
+    text-align: center;
+}
+
+#addi-1{
+    margin-left: 2%;
+}
+#addi-2{
+    display: flex;
+    background-color: cadetblue;
+    margin: 0% 2% 8% 2%;
+}
+.img{
+    width: 29.3%;
+    margin-left: 3%;
+    padding: 2% 0%;
+}
+
+#sec7{
+    text-align: center;
+    padding: 5% 8%;
+    background-color: bisque;
+    margin: 2% 20% 5% 20%;
+    
+}
+#mail-address{
+    background-color: rgb(189, 187, 187);
+    padding: 8px 30px;
+    border: none;
+    font-size: 20px;
+    border-radius: 5px 0px 0px 5px;
+}
+#submit{
+    background-color: rgb(249, 68, 36);
+    columns: white;
+    padding: 8px 30px;
+    border: none;
+    color: white;
+    font-size: 20px;
+    border-radius: 0px 5px 5px 0px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(32, 31, 31);
+    padding: 3%;
+}
+footer h1{
+    color: rgb(255, 72, 40);
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer small{
+    color: white;
+}
